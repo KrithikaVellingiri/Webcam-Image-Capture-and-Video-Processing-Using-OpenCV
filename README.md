@@ -130,9 +130,19 @@ cap.release()
 
 ### i) Write the frame as JPG image
 
+![Output image](output_6_0.png)
+
 ### ii) Display the video
+
+![Output image](output_8_0.png)
+
 ### iii) Display the video by resizing the window
+
+![Output image](output_10_0.png)
+
 ### iv) Rotate and display the video
+
+![Output image](output_12_0.png)
 
 ---
 
